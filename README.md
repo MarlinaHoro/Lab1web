@@ -7,6 +7,18 @@ Memahami dasar - dasar HTMl
 1. membuka text editor 
 2. membuat file html `Lab1_tag_dasar.html`
 3. membuat sturktur html
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+      </head>
+      <body>
+    
+      </body>
+      </html>
 4. merubah title `Tag HTML Dasar`
 5. membuat paragraf menggunakan tag `<p></p>`
 6. mengatur atribut paragraf menggunakan atribut `align`
