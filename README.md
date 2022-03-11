@@ -51,13 +51,21 @@ Memahami dasar - dasar HTMl
         <h5>Heading 5</h5>
         <h6>Heading 6</h6>
 
+![5.png](img/5.png)
+
+![6.png](img/6.png)
+
 8. membuat navigasi menggunakan tag `nav` dan untuk hiperlink mengunakan tag `a`
 
-    <nav>
-      <a href="lab1_tag_dasar.html">Dasar HTML</a>
-      <a href="lab1_halaman2.html">Halaman 2</a>
-      <a href="https://www.google.co.id/">Halaman Web Eksternal Google</a>
-    </nav>
+        <nav>
+          <a href="lab1_tag_dasar.html">Dasar HTML</a>
+          <a href="lab1_halaman2.html">Halaman 2</a>
+          <a href="https://www.google.co.id/">Halaman Web Eksternal Google</a>
+        </nav>
+
+![7.png](img/7.png)
+
+![8.png](img/8.png)
 
 tag `hr` berfungsi untuk membuat garis 
 
@@ -77,3 +85,7 @@ menambahkan gambar di HTML kita menggunakan tag `img`
 contoh 
 
     <img src="img/Universitas-Pelita-Bangsa.png" alt="UPB" title="Logo Universitas Pelita Bangsa">
+
+![9.png](img/9.png)
+
+![10.png](img/10.png)
