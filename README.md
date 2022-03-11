@@ -7,6 +7,7 @@ Memahami dasar - dasar HTMl
 1. membuka text editor 
 2. membuat file html `Lab1_tag_dasar.html`
 3. membuat sturktur html
+
       <!DOCTYPE html>
       <html lang="en">
       <head>
@@ -19,8 +20,19 @@ Memahami dasar - dasar HTMl
     
       </body>
       </html>
+
 4. merubah title `Tag HTML Dasar`
+
+![2.png](img/2.png)
+ 
+ maka akan tampil sebagai berikut
+
+![3.png](img/3.png)
+
 5. membuat paragraf menggunakan tag `<p></p>`
+
+![4.png](img/4.png)
+
 6. mengatur atribut paragraf menggunakan atribut `align`
 
     atribut align="right" -> mengatur paragraf di posisi kana
